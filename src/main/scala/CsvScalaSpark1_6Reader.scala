@@ -1,7 +1,7 @@
 import org.apache.spark.sql.SQLContext
 import org.apache.spark.{SparkConf, SparkContext}
 
-object ReadCSVFile {
+object CsvScalaSpark1_6Reader {
 
   case class Employee(empno:String, ename:String, designation:String, manager:String, hire_date:String, sal:String , deptno:String)
 

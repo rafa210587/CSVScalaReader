@@ -1,0 +1,5 @@
+name,class,race,level,str,dex,con,int,win,cha
+testName1,testClass1,testRace1,1,1,1,1,1,1,1
+testName2,testClass2,testRace2,2,2,2,2,2,2,2
+testName3,testClass3,testRace3,3,3,3,3,3,3,3
+testName4,testClass4,testRace4,4,4,4,4,4,4,4
