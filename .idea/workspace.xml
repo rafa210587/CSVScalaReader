@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d48f5eb-5412-468b-8722-f9c1765cb5ff" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../poc-kafka/target/classes/com/study/poc/kafka/KafkaApplication$MessageListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/../poc-kafka/target/classes/com/study/poc/kafka/KafkaApplication$MessageListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../poc-kafka/target/classes/com/study/poc/kafka/KafkaApplication$MessageProducer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../poc-kafka/target/classes/com/study/poc/kafka/KafkaApplication$MessageProducer$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../poc-kafka/target/classes/com/study/poc/kafka/KafkaApplication$MessageProducer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../poc-kafka/target/classes/com/study/poc/kafka/KafkaApplication$MessageProducer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../poc-kafka/target/classes/com/study/poc/kafka/KafkaApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../poc-kafka/target/classes/com/study/poc/kafka/KafkaApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../poc-kafka/target/classes/com/study/poc/kafka/config/KafkaConsumerConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../poc-kafka/target/classes/com/study/poc/kafka/config/KafkaConsumerConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../poc-kafka/target/classes/com/study/poc/kafka/config/KafkaProducerConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../poc-kafka/target/classes/com/study/poc/kafka/config/KafkaProducerConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../poc-kafka/target/classes/com/study/poc/kafka/config/KafkaTopicConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../poc-kafka/target/classes/com/study/poc/kafka/config/KafkaTopicConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../poc-kafka/target/classes/com/study/poc/kafka/domain/dto/Greeting.class" beforeDir="false" afterPath="$PROJECT_DIR$/../poc-kafka/target/classes/com/study/poc/kafka/domain/dto/Greeting.class" afterDir="false" />
-    </list>
+    <list default="true" id="7d48f5eb-5412-468b-8722-f9c1765cb5ff" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +17,7 @@
     </projectState>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../poc-kafka" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
@@ -39,7 +30,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1RG6aKcaZxYkYCqFx7Bee7N49Ch" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../poc-kafka" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -110,7 +103,7 @@
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value="scala [file:/C:/Users/nakam/Documents/git/Scala/]" />
+                <option name="name" value="csvscalareader [file:/C:/Users/nakam/Documents/git/Scala/CSVScalaReader/]" />
                 <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
@@ -124,7 +117,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$/build.sbt" value="3694618090" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="2343614542" />
         <entry key="$PROJECT_DIR$/project/build.properties" value="2868604264" />
       </map>
     </option>
@@ -147,7 +140,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
